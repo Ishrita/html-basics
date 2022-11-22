@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head> 
+     <title> Modern physics </title>
+</head>
+<body>
+	<h1> Dielectrics Materials </h1>
+	<p> DIELECTRIC- A dielectric (or an insulator) is
+a material in which all the electrons are tightly
+bound to the nuclei of the atoms.Thus there are
+no free electrons to carry current. Hence the
+electrical conductivity of a dielectric is very low.
+(The conductivity of an ideal dielectric is zero).
+Glass, plastic, mica, oil, etc., are examples of
+dielectrics
+<br>
+<h3> Type of dielectric </h3>
+<ol>
+	<li> Polar dielectric </li>
+	<li> Non-polar dielectric </li>
+</ol>
+Now, explaining polar and non-polar dielectric one by one , we get-
+<ul> 
+	<li>A NON-POLAR DIELECTRIC is one in which
+the centre of gravity of the positive charges
+(protons) coincides with the centre of gravity of
+the negative charges (electrons). The non-polar molecules have symmetrical structure and zero electric dipole moment. Examples are: H2, N2, O2,
+CO2, benzene, etc.</li>
+<br>
+<img src ="https://cdn.testbook.com/images/production/quesImages/quesImage7726.png">
+
+<br>
+<li> A POLAR DIELECTRIC is one in which the centre of gravity of
+the positive charges is separated from the centre of gravity of
+the negative charges by a finite distance. The polar molecule
+is thus an electric dipole and has an intrinsic permanent
+dipole moment. Examples are: H2O, HCl, CO, N2O, NH3, etc.</li>
+<br>
+<img src= "https://cdn1.byjus.com/wp-content/uploads/2018/07/Polarity-700x341.png">
+<br>
+</ul>
+<h3> Polarization of Dielectrics </h3>
+<p>When a dielectric is placed in an external electric field E, the positive and negative charges are displaced from their
+equilibrium positions by very small distances throughout the volume
+of the dielectric. This results in the formation of a large number of
+dipoles each having some dipole moment in the direction of the field.
+The material is said to be polarized with a Polarization P.
+The polarization P is defined as the dipole moment per unit
+volume, averaged over the volume of a cell.</p>
+<h3> Polarisation density </h3>
+<p>Polarization density also describes how a material responds to an applied electric field as well as the way the material changes the electric field, and can be used to calculate the forces that result from those interactions. It can be compared to magnetization, which is the measure of the corresponding response of a material to a magnetic field in magnetism. The SI unit of measure is coulombs per square meter, and polarization density is represented by a vector P</p>
+	</p>
+	<h2> Questions for practice </h2>
+
+	<p> 1. Which one of the following is the non-polar molecules</p>
+
+	<form>
+		 <input type="radio" id="C6H6" name="non_polar" value="C6H6">
+  <label for="C6H6">C6H6</label><br>
+  <input type="radio" id="H2" name="non-polar" value="H2">
+  <label for="H2">H2</label><br>
+  <input type="radio" id="C2H4" name="non_polar" value="C2H4">
+  <label for="C2H4">C2H4</label>
+<p> 2.Explain dielectrics. </p>
+<br>
+<form action="/action_page.php">
+  <textarea name="message" rows="10" cols="30">.</textarea>
+  <br><br>
+  <input type="submit">
+</form>
+<hr>
+<input type="button" onclick="alert('Congrats! You have completed this page')" value="Click Me!">
+
+	
+</body>
+</html>
